@@ -1,0 +1,10 @@
+
+---
+
+### 🔄 Step 5: Add these files to your repo
+Go to your project folder in terminal (or VS Code terminal):
+
+```bash
+git add README.md requirements.txt .gitignore
+git commit -m "Add README, requirements and gitignore"
+git push origin main
