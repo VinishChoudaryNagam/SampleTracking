@@ -3,11 +3,14 @@
 A simple Python Flask REST API to manage Samples and Experiments.
 
 ## 📦 Features
-- Add and list Samples and Experiments
-- Uses SQLite database for storage
+- Add and list Samples
+- Add and list Experiments
+- Uses SQLite database for local storage
+- Simple, modular Python code
 
-## 🚀 How to run
+## 🚀 How to Run
 
-1. Install dependencies:
+1. Clone the repository:
 ```bash
-pip install -r requirements.txt
+git clone https://github.com/VinishChoudaryNagam/SampleTracking.git
+cd SampleTracking
